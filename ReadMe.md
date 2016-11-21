@@ -34,7 +34,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
   	- Value fully sent to seller from escrow
   	- End transaction state = inactive
 
-<br/><br/>
+<br/>
 <b>License and Software Versions: </b><a href="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/LICENSE">License</a>
 <BR/>
 Should you have installed the open source version of the Software that version of the Software is subject to this EULA as well as the terms of the GNU Affero General Public License version 3 or later. 
