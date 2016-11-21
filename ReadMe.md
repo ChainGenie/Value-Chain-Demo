@@ -1,6 +1,6 @@
 <B>Value Chain Demo:</B><br/>
 Link to working demo: <a href="http://chaingenie.com">http://valuechain.chaingenie.com</a><br/>
-Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">GitHub Page</a>
+Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">https://chaingenie.github.io/Value-Chain-Demo/</a>
 <br/><br/>
 
 <b>Information about this project:</b>
