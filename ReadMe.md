@@ -39,7 +39,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 - Mark Painter, CFA, FRM, MBA
   - <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
   - Organization: consensus-evolution
-- Charles Meier
+- Charles Meier, MBA
   - <a href="https://www.linkedin.com/in/charles-meier-20836593">LinkedIn profile</a>
 <br/>
 
