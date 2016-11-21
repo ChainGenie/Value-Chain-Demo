@@ -33,8 +33,21 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 -	OPTION 2 : Buyer can confirm receipt of item – ConfirmReceived
   	- Value fully sent to seller from escrow
   	- End transaction state = inactive
-
 <br/>
+
+<b>Project visionaires:</b><br>
+1. Mark Painter, CFA, FRM, MBA<br/>
+- <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
+- Organization: consensus-evolution
+2. Charles Meier<br/>
+- <a href="https://www.linkedin.com/in/charles-meier-20836593">LinkedIn profile</a>
+<br/>
+<b>Project mentor / guide:</b><br>
+Usha Krishnan
+- <a href="https://www.linkedin.com/in/upriya">LinkedIn profile</a>
+- Organization: <a href="http://chaingenie.com">ChainGenie®</a>
+<br/>
+
 <b>License and Software Versions: </b><a href="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/LICENSE">License</a>
 <BR/>
 Should you have installed the open source version of the Software that version of the Software is subject to this EULA as well as the terms of the GNU Affero General Public License version 3 or later. 
