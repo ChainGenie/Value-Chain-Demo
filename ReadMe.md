@@ -36,16 +36,16 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 <br/>
 
 <b>Project visionaires:</b><br>
-1. Mark Painter, CFA, FRM, MBA<br/>
-- <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
-- Organization: consensus-evolution
-2. Charles Meier<br/>
-- <a href="https://www.linkedin.com/in/charles-meier-20836593">LinkedIn profile</a>
-<br/>
+- Mark Painter, CFA, FRM, MBA
+  - <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
+  - Organization: consensus-evolution
+- Charles Meier
+  - <a href="https://www.linkedin.com/in/charles-meier-20836593">LinkedIn profile</a>
+<br/><br/>
 <b>Project mentor / guide:</b><br>
-Usha Krishnan
-- <a href="https://www.linkedin.com/in/upriya">LinkedIn profile</a>
-- Organization: <a href="http://chaingenie.com">ChainGenie®</a>
+- Usha Krishnan
+  - <a href="https://www.linkedin.com/in/upriya">LinkedIn profile</a>
+  - Organization: <a href="http://chaingenie.com">ChainGenie®</a>
 <br/>
 
 <b>License and Software Versions: </b><a href="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/LICENSE">License</a>
