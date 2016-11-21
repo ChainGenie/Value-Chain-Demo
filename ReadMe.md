@@ -41,7 +41,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
   - Organization: consensus-evolution
 - Charles Meier
   - <a href="https://www.linkedin.com/in/charles-meier-20836593">LinkedIn profile</a>
-<br/><br/>
+<br/>
 <b>Project mentor / guide:</b><br>
 - Usha Krishnan
   - <a href="https://www.linkedin.com/in/upriya">LinkedIn profile</a>
