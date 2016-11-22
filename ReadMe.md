@@ -4,7 +4,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 <br/><br/>
 
 <b>Information about this project:</b>
--	This demo was developed as part of WCF SBL® lab.
+-	This demo was developed as part of WCF SBL™ lab.
 -	Application is built on Ethereum blockchain.
 -	Application is configured to run on private Ethereum test node.
 -	All transaction values are in Ether.  Other currencies coming soon.
