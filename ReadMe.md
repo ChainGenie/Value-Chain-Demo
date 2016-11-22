@@ -35,7 +35,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
   	- End transaction state = inactive
 <br/>
 
-<b>Project visionaires:</b><br>
+<b>Project visionaries:</b><br>
 - Mark Painter, CFA, FRM, MBA
   - <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
   - Organization: consensus-evolution
