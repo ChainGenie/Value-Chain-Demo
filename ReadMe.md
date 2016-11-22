@@ -16,23 +16,28 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 <br/><br/>
 
 <b>Workflow:</b>
-- Seller initiates sale – CreateTradeContract
+- LIST: Seller initiates sale – CreateTradeContract
    	- Escrow from seller added for value of contract
    	- End transaction state = created
--	Buyer confirms interest in buying – ConfirmPurchase
+-	BID / BUY: Buyer confirms interest in buying – ConfirmPurchase
   	- Escrow from buyer added to value of contract
   	- Invoice document is created with all details from invoice template
   	- Invoice is added IPFS and blockchain
   	- End transaction state = locked
--	Seller can cancel the market trade – ConfirmAbort
-  	- Escrow from seller is returned back to the seller
-  	- End transaction state = inactive
--	OPTION 1: Seller can refund - ConfirmRefund
-  	- Escrow distributed back to both seller and vendor
-  	- End transaction state = inactive
--	OPTION 2 : Buyer can confirm receipt of item – ConfirmReceived
+-	DELIVERY CONFIRMATION: Buyer can confirm receipt of item – ConfirmReceived
   	- Value fully sent to seller from escrow
   	- End transaction state = inactive
+    - TRANSACTION COMPLETE
+-	Addon: Seller option 1
+    - Seller can cancel the market trade after listing but before bid/buy – ConfirmAbort
+  	- Escrow from seller is returned back to the seller
+  	- End transaction state = inactive
+-	Addon: Seller option 2
+    - Seller can cancel the market trade after bid/buy by refunding the seller – ConfirmRefund
+  	- Escrow from buyer is returned back to the buyer
+    - Escrow from seller is returned back to the seller (penalties can be imposed)
+  	- End transaction state = inactive
+
 <br/>
 
 <b>Project visionaries:</b><br>
