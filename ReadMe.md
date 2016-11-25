@@ -40,6 +40,14 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 
 <br/>
 
+The below represents the components that can make up your workflow and a proposal to put them together. <br>
+<hr/>
+<br/><img src="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/images/components.JPG" width="400" /><br/>
+<br/><img src="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/images/workflow.JPG" width="400" />
+<hr/>
+
+<br/>
+
 <b>Project visionaries:</b><br>
 - Mark Painter, CFA, FRM, MBA
   - <a href="https://www.linkedin.com/in/william-mark-painter-2366b462">LinkedIn profile</a>
