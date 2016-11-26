@@ -17,7 +17,7 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
 
 <b>Workflow:</b>
 - LIST: Seller initiates sale – CreateTradeContract
-   	- Escrow from seller added for value of contract
+   	- Value and details of item on sale is recorded on blockchain
    	- End transaction state = created
 -	BID / BUY: Buyer confirms interest in buying – ConfirmPurchase
   	- Escrow from buyer added to value of contract
@@ -30,12 +30,12 @@ Link to GitHub pages: <a href="https://chaingenie.github.io/Value-Chain-Demo/">h
     - TRANSACTION COMPLETE
 -	Addon: Seller option 1
     - Seller can cancel the market trade after listing but before bid/buy – ConfirmAbort
-  	- Escrow from seller is returned back to the seller
+  	- Escrow (if collected, none in this case) from seller is returned back to the seller (penalties can be imposed)
   	- End transaction state = inactive
 -	Addon: Seller option 2
     - Seller can cancel the market trade after bid/buy by refunding the seller – ConfirmRefund
   	- Escrow from buyer is returned back to the buyer
-    - Escrow from seller is returned back to the seller (penalties can be imposed)
+    - Escrow (if collected, none in this case) from seller is returned back to the seller (penalties can be imposed)
   	- End transaction state = inactive
 
 <br/>
