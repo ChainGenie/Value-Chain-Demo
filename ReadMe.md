@@ -44,9 +44,7 @@ The below represents the components that can make up your workflow and a proposa
 <hr/>
 <br/><img src="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/images/components.JPG" width="400" /><br/>
 <br/><img src="https://github.com/ChainGenie/Value-Chain-Demo/blob/master/images/workflow.JPG" width="400" />
-<hr/><br/>
-Demonstration: <br/>
-<video src="demo.mp4" width="320" height="200" controls preload></video>
+<hr/>
 <br/>
 
 <b>Project visionaries:</b><br>
